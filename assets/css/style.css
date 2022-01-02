@@ -2054,3 +2054,20 @@ section {
 .container .cust_3_back{
   background: yellow;
 }
+.gx-0 .padd_0 #padd_bot_0{
+  padding: 100px; 
+  }
+.gx-0 .img_top_0 #img_0{
+  padding-top: 50px;
+} 
+
+@media only screen and (max-width: 800px) {
+  .gx-0 .padd_0 #padd_bot_0{
+    padding-bottom:0px ;
+  }
+  .gx-0 .img_top_0 #img_0{
+    padding-top: 0px;
+  } 
+  
+
+  }
