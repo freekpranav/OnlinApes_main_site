@@ -12,6 +12,10 @@
   scroll-behavior: smooth;
 }
 @font-face {
+  font-family: banner;
+  src: url('assets/fonts/Poppins-ExtraBold.ttf');
+}
+@font-face {
   font-family: heading;
   src: url(assets/fonts/Poppins-Black.ttf);
 }
@@ -25,7 +29,7 @@
 }
 @font-face {
   font-family: light;
-  src: url(assets/fonts/Poppins-Light.ttf);
+  src: url('assets/fonts/Poppins-Light.ttf');
 }
 .color-black{
   color: #000;
